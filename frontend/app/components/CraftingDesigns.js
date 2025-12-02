@@ -50,7 +50,11 @@ export default function CraftingDesigns() {
           {/* Left side - Statement */}
           <div className="text-white" data-aos="fade-right">
             <p className="text-xl md:text-2xl font-sans font-light leading-relaxed">
-              Designing with Purpose. Creating Experiences Measured by Meaningful Impact
+              Designing with Purpose. Creating Experiences Measured by Meaningful Impact.
+            </p>
+            <p className="mt-4 text-base md:text-lg font-sans font-light leading-relaxed">
+              <span className="text-[#ff6b35] font-normal">Currently exploring AI</span>
+              <span className="text-gray-300"> to enhance product design workflows and enable more human, intuitive digital experiences.</span>
             </p>
           </div>
 
@@ -62,7 +66,7 @@ export default function CraftingDesigns() {
               <div className="absolute inset-4 overflow-hidden">
                 <Image
                   src="/portfolio.png"
-                  alt="Debashis"
+                  alt="Debashish"
                   fill
                   className="object-cover object-center"
                   style={{ filter: 'grayscale(100%) contrast(1.2)' }}

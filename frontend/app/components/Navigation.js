@@ -67,7 +67,7 @@ export default function Navigation() {
           onClick={(e) => handleNavClick(e, 'home')}
           className="text-white font-sans text-base md:text-lg hover:opacity-80 transition-opacity cursor-pointer"
         >
-          Debashis®
+          Debashish®
         </a>
         
         {/* Center - Hamburger Menu */}
@@ -102,10 +102,10 @@ export default function Navigation() {
 
         {/* Right - Email */}
         <a
-          href="mailto:debashis@mail.com"
+          href="mailto:debashish@mail.com"
           className="text-white font-sans text-sm md:text-base hover:opacity-80 transition-opacity"
         >
-          say hi — debashis@mail.com
+          say hi — debashish@mail.com
         </a>
       </div>
 

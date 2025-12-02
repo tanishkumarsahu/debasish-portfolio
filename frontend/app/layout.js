@@ -19,7 +19,7 @@ const playfairDisplay = Playfair_Display({
 });
 
 export const metadata = {
-  title: "Debashis - Design Portfolio",
+  title: "Debashish - Design Portfolio",
   description: "Designing Products That Shape Experiences",
 };
 

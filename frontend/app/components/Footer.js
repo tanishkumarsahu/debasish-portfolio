@@ -12,7 +12,7 @@ export default function Footer() {
             {/* Left Side */}
             <div className="space-y-8" data-aos="fade-right">
               <h2 className="text-6xl md:text-8xl font-serif font-black text-white">
-                DEBASHIS
+                DEBASHISH
               </h2>
               
               {/* Social Icons */}
@@ -55,8 +55,8 @@ export default function Footer() {
 
               {/* Contact Info */}
               <div className="space-y-2 text-white font-sans text-sm">
-                <div>Email: hello@debashis.com</div>
-                <div>Phone: +1 (123) 456-7890</div>
+                <div>Email: yugayatra@gmail.com</div>
+                <div>Phone: +91 8757728679</div>
               </div>
             </div>
           </div>
@@ -66,10 +66,9 @@ export default function Footer() {
       {/* Bottom Section - Orange */}
       <div className="bg-gradient-to-br from-orange-500 to-red-600 py-6 px-6 lg:px-12">
         <div className="max-w-7xl mx-auto text-center text-white text-sm font-sans">
-          <p>Debashis. All rights reserved. Designed & Built by Slaorvaeda - Durga</p>
+          <p>Debashish. All rights reserved. Designed & Built by Slaorvaeda - Durga</p>
         </div>
       </div>
     </footer>
   );
 }
-
